@@ -1,6 +1,7 @@
 {
-  "name": "mean-course-project",
-  "short_name": "mean-course-project",
+  "name": "Mean Course Project",
+  "short_name": "mean",
+  "description": "An angular web app project built to practice the MEAN dev stack",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
