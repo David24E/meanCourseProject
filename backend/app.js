@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const postsRoutes = require('./routes/posts');
 const path = require('path');
 
-// mongodb user password for david: xN4EQpHmDaJS6V5L
+// mongodb user password for david: oQvKdvBVA017869e
 
 const app = express();
 
